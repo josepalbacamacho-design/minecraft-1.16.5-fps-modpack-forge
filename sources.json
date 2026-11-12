@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 28,
+  "jar_count": 29,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -114,6 +114,13 @@
         "betterbiomeblend"
       ],
       "version": "1.16.4-1.2.9-forge"
+    },
+    {
+      "filename": "chunkguard-1.0.0.jar",
+      "mod_ids": [
+        "chunkguard"
+      ],
+      "version": "${file.jarVersion}"
     },
     {
       "filename": "cloth-config-4.17.101-forge.jar",
@@ -255,5 +262,10 @@
       "reason": "User requested removal",
       "filename": "enhancedblockentities-0.13.3+1.16.5-forge.jar"
     }
-  ]
+  ],
+  "added_custom_mod": {
+    "name": "ChunkGuard",
+    "filename": "chunkguard-1.0.0.jar",
+    "source_project": "/home/ubuntu/chunkguard-forge-1165"
+  }
 }
