@@ -8,7 +8,7 @@ Pack centrado exclusivamente en **optimización y rendimiento**, con **{len(file
 
 ## Optimizadores incluidos
 
-- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus y Entity Culling. También incluye **ChunkGuard**, el mod propio del pack para adaptar la distancia de chunks según el tiempo de tick, y **Menu Panels**, un añadido de cliente para reemplazar el menú principal con tres paneles de imágenes.
+- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus y Entity Culling. También incluye **ChunkGuard**, el mod propio del pack para adaptar la distancia de chunks según el tiempo de tick, y **Menu Panels**, un añadido de cliente para reemplazar el menú principal con tres paneles de imágenes. También incluye **MemoryGuard**, que monitoriza la memoria y ofrece limpieza manual o automática opcional.
 - **Memoria y carga:** FerriteCore, ModernFix, Memory Leak Fix, Saturn, Lightspeed, Ksyxis, Kerria y Opotato.
 - **Entidades, lógica y generación:** AI Improvements, FastChest Revived, Structure Layout Optimizer, Radon y Dimensional Threading Reforked.
 - **Red y tiempos de espera:** Packet Fixer, Fast IP Ping y FastQuit.
@@ -40,7 +40,7 @@ Si aparece un crash, guarda `logs/latest.log` y el crash report. No añadas mods
 
 ## Archivos
 
-- `mods/`: los 30 archivos Forge, incluidos `chunkguard-1.0.0.jar` y `menupanels-1.0.0.jar`.
+- `mods/`: los 31 archivos Forge, incluidos `chunkguard-1.0.0.jar`, `menupanels-1.0.0.jar` y `memoryguard-1.0.0.jar`.
 - `LISTA-DE-MODS.md`: inventario validado desde `META-INF/mods.toml`.
 - `sources.json`: metadatos y fuentes de los archivos.
 - `Modpack-FPS-1.16.5-Forge-PURE.zip`: ZIP de la variante de optimización pura.

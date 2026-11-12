@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 30,
+  "jar_count": 31,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -186,6 +186,13 @@
       "version": "${file.jarVersion}"
     },
     {
+      "filename": "memoryguard-1.0.0.jar",
+      "mod_ids": [
+        "memoryguard"
+      ],
+      "version": "${file.jarVersion}"
+    },
+    {
       "filename": "memoryleakfix-forge-pre1.17-1.1.5.jar",
       "mod_ids": [
         "memoryleakfix"
@@ -284,5 +291,10 @@
       "panel_morty.png",
       "panel_jerry.png"
     ]
+  },
+  "added_memory_mod": {
+    "name": "MemoryGuard",
+    "filename": "memoryguard-1.0.0.jar",
+    "source_project": "/home/ubuntu/memory-guard-forge-1165"
   }
 }
