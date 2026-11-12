@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 29,
+  "jar_count": 28,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -137,13 +137,6 @@
       "version": "3.4.3"
     },
     {
-      "filename": "enhancedblockentities-0.13.3+1.16.5-forge.jar",
-      "mod_ids": [
-        "enhancedblockentities"
-      ],
-      "version": "0.13.3"
-    },
-    {
       "filename": "entityculling-forge-mc1.16.5-1.5.2.jar",
       "mod_ids": [
         "entityculling"
@@ -254,6 +247,13 @@
         "structure_layout_optimizer"
       ],
       "version": "1.0.10"
+    }
+  ],
+  "removed_in_audit": [
+    {
+      "name": "enhancedblockentities",
+      "reason": "User requested removal",
+      "filename": "enhancedblockentities-0.13.3+1.16.5-forge.jar"
     }
   ]
 }

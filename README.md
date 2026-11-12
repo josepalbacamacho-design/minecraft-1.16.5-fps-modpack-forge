@@ -1,6 +1,6 @@
 # Modpack Pure FPS / Optimización — Minecraft 1.16.5 Forge
 
-Pack centrado exclusivamente en **optimización y rendimiento**, con **29 archivos `.jar` Forge**. No incluye mapas, inventario, decoración, contenido, voz ni utilidades generales que no aporten rendimiento.
+Pack centrado exclusivamente en **optimización y rendimiento**, con **{len(files)} archivos `.jar` Forge**. No incluye mapas, inventario, decoración, contenido, voz ni utilidades generales que no aporten rendimiento.
 
 <p align="center"><a href="https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/releases/latest/download/Modpack-FPS-1.16.5-Forge-PURE.zip"><img src="https://img.shields.io/badge/Descargar%20pack-PURE%20FPS-brightgreen?style=for-the-badge" alt="Descargar pack Pure FPS Forge 1.16.5"></a></p>
 
@@ -8,7 +8,7 @@ Pack centrado exclusivamente en **optimización y rendimiento**, con **29 archiv
 
 ## Optimizadores incluidos
 
-- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus, Entity Culling y Enhanced Block Entities Reloaded.
+- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus y Entity Culling.
 - **Memoria y carga:** FerriteCore, ModernFix, Memory Leak Fix, Saturn, Lightspeed, Ksyxis, Kerria y Opotato.
 - **Entidades, lógica y generación:** AI Improvements, FastChest Revived, Structure Layout Optimizer, Radon y Dimensional Threading Reforked.
 - **Red y tiempos de espera:** Packet Fixer, Fast IP Ping y FastQuit.
@@ -40,7 +40,7 @@ Si aparece un crash, guarda `logs/latest.log` y el crash report. No añadas mods
 
 ## Archivos
 
-- `mods/`: los 29 archivos Forge.
+- `mods/`: los 28 archivos Forge.
 - `LISTA-DE-MODS.md`: inventario validado desde `META-INF/mods.toml`.
 - `sources.json`: metadatos y fuentes de los archivos.
 - `Modpack-FPS-1.16.5-Forge-PURE.zip`: ZIP de la variante de optimización pura.

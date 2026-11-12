@@ -13,7 +13,6 @@ curl -fL --retry 3 -o "mods/betterbiomeblend-1.16.4-1.2.9-forge.jar" "https://gi
 curl -fL --retry 3 -o "mods/cloth-config-4.17.101-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/cloth-config-4.17.101-forge.jar"
 curl -fL --retry 3 -o "mods/dimthread-1.16.5-v1.0.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/dimthread-1.16.5-v1.0.5.jar"
 curl -fL --retry 3 -o "mods/dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/dynamic-fps-3.4.3%2Bminecraft-1.16.5-forge.jar"
-curl -fL --retry 3 -o "mods/enhancedblockentities-0.13.3+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/enhancedblockentities-0.13.3%2B1.16.5-forge.jar"
 curl -fL --retry 3 -o "mods/entityculling-forge-mc1.16.5-1.5.2.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/entityculling-forge-mc1.16.5-1.5.2.jar"
 curl -fL --retry 3 -o "mods/fast-ip-ping-v1.0.12-mc1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/fast-ip-ping-v1.0.12-mc1.16.5-forge.jar"
 curl -fL --retry 3 -o "mods/fastchestrevived-forge-2.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/fastchestrevived-forge-2.0.jar"
@@ -30,4 +29,4 @@ curl -fL --retry 3 -o "mods/rubidium-extra-0.4.18+mc1.16.5-build.107.jar" "https
 curl -fL --retry 3 -o "mods/rubidium-mc1.16.5-0.2.13.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-mc1.16.5-0.2.13.jar"
 curl -fL --retry 3 -o "mods/saturn-mc1.16.5-0.0.3.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/saturn-mc1.16.5-0.0.3.jar"
 curl -fL --retry 3 -o "mods/structure_layout_optimizer-forge-1.0.10.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/structure_layout_optimizer-forge-1.0.10.jar"
-echo Descargados 29 mods de optimizacion Forge 1.16.5
+echo Descargados 28 mods de optimizacion Forge 1.16.5
