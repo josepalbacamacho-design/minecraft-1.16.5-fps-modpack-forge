@@ -1,0 +1,174 @@
+{
+  "minecraft": "1.16.5",
+  "loader": "Forge",
+  "forge_recommended": "36.2.39",
+  "profile": "pure-optimization",
+  "root_count": 22,
+  "jar_count": 23,
+  "embedded_dependency_ids": [
+    "mixinextras"
+  ],
+  "mods": [
+    {
+      "filename": "AI-Improvements-1.16.5-0.5.0.jar",
+      "mod_ids": [
+        "aiimprovements"
+      ],
+      "version": "0.4.0"
+    },
+    {
+      "filename": "FpsReducer-forge-1.24-mc1.16.5.jar",
+      "mod_ids": [
+        "fpsreducer"
+      ],
+      "version": "${file.jarVersion}"
+    },
+    {
+      "filename": "Ksyxis-1.4.6.jar",
+      "mod_ids": [
+        "ksyxis"
+      ],
+      "version": "1.4.6"
+    },
+    {
+      "filename": "Rrls-1.5.1-forge.jar",
+      "mod_ids": [
+        "rrls"
+      ],
+      "version": "1.5.1-forge"
+    },
+    {
+      "filename": "asynclogger-2.2.3+1.16.5-forge.jar",
+      "mod_ids": [
+        "asynclogger"
+      ],
+      "version": "2.2.3+1.16.5-forge"
+    },
+    {
+      "filename": "betterbiomeblend-1.16.4-1.2.9-forge.jar",
+      "mod_ids": [
+        "betterbiomeblend"
+      ],
+      "version": "1.16.4-1.2.9-forge"
+    },
+    {
+      "filename": "cloth-config-4.17.101-forge.jar",
+      "mod_ids": [
+        "cloth-config"
+      ],
+      "version": "4.17.101"
+    },
+    {
+      "filename": "dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar",
+      "mod_ids": [
+        "dynamic_fps"
+      ],
+      "version": "3.4.3"
+    },
+    {
+      "filename": "entityculling-forge-mc1.16.5-1.5.2.jar",
+      "mod_ids": [
+        "entityculling"
+      ],
+      "version": "1.5.2"
+    },
+    {
+      "filename": "fast-ip-ping-v1.0.12-mc1.16.5-forge.jar",
+      "mod_ids": [
+        "fastipping"
+      ],
+      "version": "1.0.12"
+    },
+    {
+      "filename": "fastchestrevived-forge-2.0.jar",
+      "mod_ids": [
+        "fastchestrevived"
+      ],
+      "version": "2.0"
+    },
+    {
+      "filename": "fastquit-3.0.1+1.16.5forge.jar",
+      "mod_ids": [
+        "fastquit"
+      ],
+      "version": "3.0.1+1.16.5forge"
+    },
+    {
+      "filename": "ferritecore-2.1.1-forge.jar",
+      "mod_ids": [
+        "ferritecore"
+      ],
+      "version": "2.1.1"
+    },
+    {
+      "filename": "lightspeed-1.16.5-1.0.5.jar",
+      "mod_ids": [
+        "lightspeed"
+      ],
+      "version": "${file.jarVersion}"
+    },
+    {
+      "filename": "memoryleakfix-forge-pre1.17-1.1.5.jar",
+      "mod_ids": [
+        "memoryleakfix"
+      ],
+      "version": "1.1.5"
+    },
+    {
+      "filename": "modernfix-forge-5.18.0+mc1.16.5.jar",
+      "mod_ids": [
+        "modernfix"
+      ],
+      "version": "5.18.0+mc1.16.5"
+    },
+    {
+      "filename": "oculus-mc1.16.5-1.4.8.jar",
+      "mod_ids": [
+        "oculus"
+      ],
+      "version": "1.4.8"
+    },
+    {
+      "filename": "packetfixer-forge-2.0.1-1.16.5.jar",
+      "mod_ids": [
+        "packetfixer"
+      ],
+      "version": "2.0.1"
+    },
+    {
+      "filename": "radon-0.8.0a.jar",
+      "mod_ids": [
+        "radon"
+      ],
+      "version": "0.8.0a"
+    },
+    {
+      "filename": "rubidium-extra-0.4.18+mc1.16.5-build.107.jar",
+      "mod_ids": [
+        "sodiumextra"
+      ],
+      "version": "0.4.18+mc1.16.5-build.107"
+    },
+    {
+      "filename": "rubidium-mc1.16.5-0.2.13.jar",
+      "mod_ids": [
+        "rubidium"
+      ],
+      "version": "0.2.13"
+    },
+    {
+      "filename": "saturn-mc1.16.5-0.0.3.jar",
+      "mod_ids": [
+        "saturn"
+      ],
+      "version": "0.0.3"
+    },
+    {
+      "filename": "structure_layout_optimizer-forge-1.0.10.jar",
+      "mod_ids": [
+        "structure_layout_optimizer"
+      ],
+      "version": "1.0.10"
+    }
+  ]
+}
