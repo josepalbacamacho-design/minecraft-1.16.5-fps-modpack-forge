@@ -2,13 +2,18 @@
 setlocal
 if not exist mods mkdir mods
 curl.exe -fL --retry 3 -o "mods\AI-Improvements-1.16.5-0.5.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/AI-Improvements-1.16.5-0.5.0.jar"
+curl.exe -fL --retry 3 -o "mods\FastEvent-1.16.5-1.2.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/FastEvent-1.16.5-1.2.0.jar"
 curl.exe -fL --retry 3 -o "mods\FpsReducer-forge-1.24-mc1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/FpsReducer-forge-1.24-mc1.16.5.jar"
+curl.exe -fL --retry 3 -o "mods\Ixeris-4.6.11+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Ixeris-4.6.11%2B1.16.5-forge.jar"
+curl.exe -fL --retry 3 -o "mods\Kerria-1.3.2+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Kerria-1.3.2%2B1.16.5-forge.jar"
 curl.exe -fL --retry 3 -o "mods\Ksyxis-1.4.6.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Ksyxis-1.4.6.jar"
 curl.exe -fL --retry 3 -o "mods\Rrls-1.5.1-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Rrls-1.5.1-forge.jar"
 curl.exe -fL --retry 3 -o "mods\asynclogger-2.2.3+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/asynclogger-2.2.3%2B1.16.5-forge.jar"
 curl.exe -fL --retry 3 -o "mods\betterbiomeblend-1.16.4-1.2.9-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/betterbiomeblend-1.16.4-1.2.9-forge.jar"
 curl.exe -fL --retry 3 -o "mods\cloth-config-4.17.101-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/cloth-config-4.17.101-forge.jar"
+curl.exe -fL --retry 3 -o "mods\dimthread-1.16.5-v1.0.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/dimthread-1.16.5-v1.0.5.jar"
 curl.exe -fL --retry 3 -o "mods\dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/dynamic-fps-3.4.3%2Bminecraft-1.16.5-forge.jar"
+curl.exe -fL --retry 3 -o "mods\enhancedblockentities-0.13.3+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/enhancedblockentities-0.13.3%2B1.16.5-forge.jar"
 curl.exe -fL --retry 3 -o "mods\entityculling-forge-mc1.16.5-1.5.2.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/entityculling-forge-mc1.16.5-1.5.2.jar"
 curl.exe -fL --retry 3 -o "mods\fast-ip-ping-v1.0.12-mc1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/fast-ip-ping-v1.0.12-mc1.16.5-forge.jar"
 curl.exe -fL --retry 3 -o "mods\fastchestrevived-forge-2.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/fastchestrevived-forge-2.0.jar"
@@ -18,11 +23,12 @@ curl.exe -fL --retry 3 -o "mods\lightspeed-1.16.5-1.0.5.jar" "https://github.com
 curl.exe -fL --retry 3 -o "mods\memoryleakfix-forge-pre1.17-1.1.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/memoryleakfix-forge-pre1.17-1.1.5.jar"
 curl.exe -fL --retry 3 -o "mods\modernfix-forge-5.18.0+mc1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/modernfix-forge-5.18.0%2Bmc1.16.5.jar"
 curl.exe -fL --retry 3 -o "mods\oculus-mc1.16.5-1.4.8.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/oculus-mc1.16.5-1.4.8.jar"
+curl.exe -fL --retry 3 -o "mods\opotato-1.16.5-2.5.6.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/opotato-1.16.5-2.5.6.jar"
 curl.exe -fL --retry 3 -o "mods\packetfixer-forge-2.0.1-1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/packetfixer-forge-2.0.1-1.16.5.jar"
 curl.exe -fL --retry 3 -o "mods\radon-0.8.0a.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/radon-0.8.0a.jar"
 curl.exe -fL --retry 3 -o "mods\rubidium-extra-0.4.18+mc1.16.5-build.107.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-extra-0.4.18%2Bmc1.16.5-build.107.jar"
 curl.exe -fL --retry 3 -o "mods\rubidium-mc1.16.5-0.2.13.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-mc1.16.5-0.2.13.jar"
 curl.exe -fL --retry 3 -o "mods\saturn-mc1.16.5-0.0.3.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/saturn-mc1.16.5-0.0.3.jar"
 curl.exe -fL --retry 3 -o "mods\structure_layout_optimizer-forge-1.0.10.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/structure_layout_optimizer-forge-1.0.10.jar"
-echo Descargados 23 mods de optimizacion Forge 1.16.5
+echo Descargados 29 mods de optimizacion Forge 1.16.5
 pause
