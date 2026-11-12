@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 29,
+  "jar_count": 30,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -193,6 +193,13 @@
       "version": "1.1.5"
     },
     {
+      "filename": "menupanels-1.0.0.jar",
+      "mod_ids": [
+        "menupanels"
+      ],
+      "version": "${file.jarVersion}"
+    },
+    {
       "filename": "modernfix-forge-5.18.0+mc1.16.5.jar",
       "mod_ids": [
         "modernfix"
@@ -267,5 +274,15 @@
     "name": "ChunkGuard",
     "filename": "chunkguard-1.0.0.jar",
     "source_project": "/home/ubuntu/chunkguard-forge-1165"
+  },
+  "added_client_mod": {
+    "name": "Menu Panels",
+    "filename": "menupanels-1.0.0.jar",
+    "source_project": "/home/ubuntu/menu-panels-forge-1165",
+    "assets": [
+      "panel_rick.jpg",
+      "panel_morty.png",
+      "panel_jerry.png"
+    ]
   }
 }
