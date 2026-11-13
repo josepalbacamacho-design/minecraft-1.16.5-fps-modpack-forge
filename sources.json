@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 28,
+  "jar_count": 29,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -221,6 +221,13 @@
       "version": "0.8.0a"
     },
     {
+      "filename": "regorboost-client-1.0.0.jar",
+      "mod_ids": [
+        "regorboost"
+      ],
+      "version": "${file.jarVersion}"
+    },
+    {
       "filename": "rubidium-extra-0.4.18+mc1.16.5-build.107.jar",
       "mod_ids": [
         "sodiumextra"
@@ -262,14 +269,11 @@
     "source_project": "/home/ubuntu/chunkguard-forge-1165"
   },
   "added_client_mod": {
-    "name": "Menu Panels",
-    "filename": "menupanels-1.0.0.jar",
-    "source_project": "/home/ubuntu/menu-panels-forge-1165",
-    "assets": [
-      "panel_rick.jpg",
-      "panel_morty.png",
-      "panel_jerry.png"
-    ]
+    "name": "RegorBoost Client",
+    "mod_id": "regorboost",
+    "filename": "regorboost-client-1.0.0.jar",
+    "client_only": true,
+    "external_server_safe": true
   },
   "added_memory_mod": {
     "name": "MemoryGuard",

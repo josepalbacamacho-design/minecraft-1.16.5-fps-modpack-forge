@@ -64,3 +64,8 @@ Better Biome Blend fue retirado por incompatibilidad con Rubidium detectada por 
 ### MemoryGuard 2.0
 
 Actualizado a `memoryguard-2.0.0.jar`: limpieza automática conservadora, protección durante ráfagas de chunks, limpieza al descargar mundos y recomendación de `-Xmx`. La memoria máxima se configura en el launcher, no durante la partida.
+
+
+### RegorBoost Client
+
+Añadido `regorboost-client-1.0.0.jar`, un mod solo de cliente para FPS, distancia de renderizado, memoria, partículas, entidades y ping. No modifica el servidor ni requiere instalación en Regorland. Se activa o desactiva con `F8`.

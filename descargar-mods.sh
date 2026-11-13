@@ -25,8 +25,9 @@ curl -fL --retry 3 -o "mods/oculus-mc1.16.5-1.4.8.jar" "https://github.com/josep
 curl -fL --retry 3 -o "mods/opotato-1.16.5-2.5.6.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/opotato-1.16.5-2.5.6.jar"
 curl -fL --retry 3 -o "mods/packetfixer-forge-2.0.1-1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/packetfixer-forge-2.0.1-1.16.5.jar"
 curl -fL --retry 3 -o "mods/radon-0.8.0a.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/radon-0.8.0a.jar"
+curl -fL --retry 3 -o "mods/regorboost-client-1.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/regorboost-client-1.0.0.jar"
 curl -fL --retry 3 -o "mods/rubidium-extra-0.4.18+mc1.16.5-build.107.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-extra-0.4.18%2Bmc1.16.5-build.107.jar"
 curl -fL --retry 3 -o "mods/rubidium-mc1.16.5-0.2.13.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-mc1.16.5-0.2.13.jar"
 curl -fL --retry 3 -o "mods/saturn-mc1.16.5-0.0.3.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/saturn-mc1.16.5-0.0.3.jar"
 curl -fL --retry 3 -o "mods/structure_layout_optimizer-forge-1.0.10.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/structure_layout_optimizer-forge-1.0.10.jar"
-echo Descargados 28 mods Forge 1.16.5
+echo Descargados 29 mods Forge 1.16.5

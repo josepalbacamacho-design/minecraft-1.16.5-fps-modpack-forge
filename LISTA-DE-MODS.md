@@ -1,6 +1,6 @@
 # Lista de mods de optimización — Minecraft 1.16.5 Forge
 
-Pack de **28 archivos `.jar` Forge**. MemoryGuard fue actualizado a 2.0.0 con limpieza conservadora, control durante carga de chunks, limpieza al salir de mundos y recomendación de memoria.
+Pack de **29 archivos `.jar` Forge**. Incluye RegorBoost Client, un mod solo de cliente para FPS, memoria, partículas, entidades, distancia de renderizado y ping.
 
 | # | Mod ID | Versión | Archivo |
 |---:|---|---|---|
@@ -28,7 +28,8 @@ Pack de **28 archivos `.jar` Forge**. MemoryGuard fue actualizado a 2.0.0 con li
 | 22 | `opotato` | `1.16.5-2.5.6` | `opotato-1.16.5-2.5.6.jar` |
 | 23 | `packetfixer` | `2.0.1` | `packetfixer-forge-2.0.1-1.16.5.jar` |
 | 24 | `radon` | `0.8.0a` | `radon-0.8.0a.jar` |
-| 25 | `sodiumextra` | `0.4.18+mc1.16.5-build.107` | `rubidium-extra-0.4.18+mc1.16.5-build.107.jar` |
-| 26 | `rubidium` | `0.2.13` | `rubidium-mc1.16.5-0.2.13.jar` |
-| 27 | `saturn` | `0.0.3` | `saturn-mc1.16.5-0.0.3.jar` |
-| 28 | `structure_layout_optimizer` | `1.0.10` | `structure_layout_optimizer-forge-1.0.10.jar` |
+| 25 | `regorboost` | `${file.jarVersion}` | `regorboost-client-1.0.0.jar` |
+| 26 | `sodiumextra` | `0.4.18+mc1.16.5-build.107` | `rubidium-extra-0.4.18+mc1.16.5-build.107.jar` |
+| 27 | `rubidium` | `0.2.13` | `rubidium-mc1.16.5-0.2.13.jar` |
+| 28 | `saturn` | `0.0.3` | `saturn-mc1.16.5-0.0.3.jar` |
+| 29 | `structure_layout_optimizer` | `1.0.10` | `structure_layout_optimizer-forge-1.0.10.jar` |
