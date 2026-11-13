@@ -1,6 +1,6 @@
 # Lista de mods de optimización — Minecraft 1.16.5 Forge
 
-Pack de **28 archivos `.jar` Forge**. Better Biome Blend fue eliminado porque Opotato confirma que causa optimización negativa junto con Rubidium.
+Pack de **28 archivos `.jar` Forge**. MemoryGuard fue actualizado a 2.0.0 con limpieza conservadora, control durante carga de chunks, limpieza al salir de mundos y recomendación de memoria.
 
 | # | Mod ID | Versión | Archivo |
 |---:|---|---|---|
@@ -20,7 +20,7 @@ Pack de **28 archivos `.jar` Forge**. Better Biome Blend fue eliminado porque Op
 | 14 | `fastchestrevived` | `2.0` | `fastchestrevived-forge-2.0.jar` |
 | 15 | `ferritecore` | `2.1.1` | `ferritecore-2.1.1-forge.jar` |
 | 16 | `lightspeed` | `${file.jarVersion}` | `lightspeed-1.16.5-1.0.5.jar` |
-| 17 | `memoryguard` | `${file.jarVersion}` | `memoryguard-1.0.0.jar` |
+| 17 | `memoryguard` | `${file.jarVersion}` | `memoryguard-2.0.0.jar` |
 | 18 | `memoryleakfix` | `1.1.5` | `memoryleakfix-forge-pre1.17-1.1.5.jar` |
 | 19 | `menupanels` | `${file.jarVersion}` | `menupanels-1.0.0.jar` |
 | 20 | `modernfix` | `5.18.0+mc1.16.5` | `modernfix-forge-5.18.0+mc1.16.5.jar` |

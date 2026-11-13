@@ -165,7 +165,7 @@
       "version": "${file.jarVersion}"
     },
     {
-      "filename": "memoryguard-1.0.0.jar",
+      "filename": "memoryguard-2.0.0.jar",
       "mod_ids": [
         "memoryguard"
       ],
@@ -280,5 +280,12 @@
     "name": "Better Biome Blend",
     "reason": "Opotato warns that it is incompatible with Rubidium and causes negative optimization."
   },
-  "lazydfu_status": "Not added: available 1.16.5 builds are Fabric-only; no verified Forge build."
+  "lazydfu_status": "Not added: available 1.16.5 builds are Fabric-only; no verified Forge build.",
+  "memoryguard_version": "2.0.0",
+  "memoryguard_features": [
+    "automatic cleanup under pressure",
+    "conservative chunk-load pressure handling",
+    "cleanup on world unload",
+    "physical-memory-based -Xmx recommendation"
+  ]
 }

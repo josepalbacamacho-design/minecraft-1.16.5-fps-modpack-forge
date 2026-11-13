@@ -17,7 +17,7 @@ curl.exe -fL --retry 3 -o "mods\fast-ip-ping-v1.0.12-mc1.16.5-forge.jar" "https:
 curl.exe -fL --retry 3 -o "mods\fastchestrevived-forge-2.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/fastchestrevived-forge-2.0.jar"
 curl.exe -fL --retry 3 -o "mods\ferritecore-2.1.1-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/ferritecore-2.1.1-forge.jar"
 curl.exe -fL --retry 3 -o "mods\lightspeed-1.16.5-1.0.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/lightspeed-1.16.5-1.0.5.jar"
-curl.exe -fL --retry 3 -o "mods\memoryguard-1.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/memoryguard-1.0.0.jar"
+curl.exe -fL --retry 3 -o "mods\memoryguard-2.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/memoryguard-2.0.0.jar"
 curl.exe -fL --retry 3 -o "mods\memoryleakfix-forge-pre1.17-1.1.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/memoryleakfix-forge-pre1.17-1.1.5.jar"
 curl.exe -fL --retry 3 -o "mods\menupanels-1.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/menupanels-1.0.0.jar"
 curl.exe -fL --retry 3 -o "mods\modernfix-forge-5.18.0+mc1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/modernfix-forge-5.18.0%2Bmc1.16.5.jar"

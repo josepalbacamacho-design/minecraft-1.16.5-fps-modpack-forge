@@ -59,3 +59,8 @@ FastQuit fue retirado porque provocaba un crash al entrar a servidores multijuga
 ### Better Biome Blend y LazyDFU
 
 Better Biome Blend fue retirado por incompatibilidad con Rubidium detectada por Opotato. LazyDFU no se añadió porque las builds para 1.16.5 encontradas son Fabric y no Forge.
+
+
+### MemoryGuard 2.0
+
+Actualizado a `memoryguard-2.0.0.jar`: limpieza automática conservadora, protección durante ráfagas de chunks, limpieza al descargar mundos y recomendación de `-Xmx`. La memoria máxima se configura en el launcher, no durante la partida.
