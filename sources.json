@@ -221,7 +221,7 @@
       "version": "0.8.0a"
     },
     {
-      "filename": "regorboost-client-1.0.0.jar",
+      "filename": "regorboost-client-1.0.1.jar",
       "mod_ids": [
         "regorboost"
       ],
@@ -291,5 +291,7 @@
     "conservative chunk-load pressure handling",
     "cleanup on world unload",
     "physical-memory-based -Xmx recommendation"
-  ]
+  ],
+  "regorboost_version": "1.0.1",
+  "regorboost_fps_cap": 150
 }

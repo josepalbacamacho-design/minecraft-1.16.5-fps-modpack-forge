@@ -69,3 +69,8 @@ Actualizado a `memoryguard-2.0.0.jar`: limpieza automática conservadora, protec
 ### RegorBoost Client
 
 Añadido `regorboost-client-1.0.0.jar`, un mod solo de cliente para FPS, distancia de renderizado, memoria, partículas, entidades y ping. No modifica el servidor ni requiere instalación en Regorland. Se activa o desactiva con `F8`.
+
+
+### RegorBoost Client 1.0.1
+
+Actualizado a `regorboost-client-1.0.1.jar`. El límite máximo del cliente queda fijado en **150 FPS**. Ningún mod propio del pack aplica otro límite de FPS.

@@ -1,6 +1,6 @@
 # Lista de mods de optimización — Minecraft 1.16.5 Forge
 
-Pack de **29 archivos `.jar` Forge**. Incluye RegorBoost Client, un mod solo de cliente para FPS, memoria, partículas, entidades, distancia de renderizado y ping.
+Pack de **29 archivos `.jar` Forge**. RegorBoost Client fija el límite del cliente en 150 FPS.
 
 | # | Mod ID | Versión | Archivo |
 |---:|---|---|---|
@@ -28,7 +28,7 @@ Pack de **29 archivos `.jar` Forge**. Incluye RegorBoost Client, un mod solo de 
 | 22 | `opotato` | `1.16.5-2.5.6` | `opotato-1.16.5-2.5.6.jar` |
 | 23 | `packetfixer` | `2.0.1` | `packetfixer-forge-2.0.1-1.16.5.jar` |
 | 24 | `radon` | `0.8.0a` | `radon-0.8.0a.jar` |
-| 25 | `regorboost` | `${file.jarVersion}` | `regorboost-client-1.0.0.jar` |
+| 25 | `regorboost` | `${file.jarVersion}` | `regorboost-client-1.0.1.jar` |
 | 26 | `sodiumextra` | `0.4.18+mc1.16.5-build.107` | `rubidium-extra-0.4.18+mc1.16.5-build.107.jar` |
 | 27 | `rubidium` | `0.2.13` | `rubidium-mc1.16.5-0.2.13.jar` |
 | 28 | `saturn` | `0.0.3` | `saturn-mc1.16.5-0.0.3.jar` |
