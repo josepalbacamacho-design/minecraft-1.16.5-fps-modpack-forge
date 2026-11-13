@@ -49,3 +49,8 @@ Si aparece un crash, guarda `logs/latest.log` y el crash report. No añadas mods
 ### Compatibilidad con Java 8
 
 Ixeris fue retirado del pack: las builds 1.16.5 revisadas incluyen clases compiladas para Java 17 y causan `UnsupportedClassVersionError` en Java 8.
+
+
+### FastQuit
+
+FastQuit fue retirado porque provocaba un crash al entrar a servidores multijugador: `Config class com.kingcontaria.fastquit.config.ModConfig has not been registered`.

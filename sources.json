@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 30,
+  "jar_count": 29,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -158,13 +158,6 @@
       "version": "2.0"
     },
     {
-      "filename": "fastquit-3.0.1+1.16.5forge.jar",
-      "mod_ids": [
-        "fastquit"
-      ],
-      "version": "3.0.1+1.16.5forge"
-    },
-    {
       "filename": "ferritecore-2.1.1-forge.jar",
       "mod_ids": [
         "ferritecore"
@@ -291,7 +284,7 @@
     "source_project": "/home/ubuntu/memory-guard-forge-1165"
   },
   "removed_mod": {
-    "name": "Ixeris",
-    "reason": "All tested 1.16.5 Forge builds, including 3.8.6 and 4.6.11, contain Java 17 classes and can crash Java 8."
+    "name": "FastQuit",
+    "reason": "Crashes when joining multiplayer with config ModConfig not registered."
   }
 }
