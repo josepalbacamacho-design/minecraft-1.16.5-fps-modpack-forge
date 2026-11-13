@@ -44,3 +44,8 @@ Si aparece un crash, guarda `logs/latest.log` y el crash report. No añadas mods
 - `LISTA-DE-MODS.md`: inventario validado desde `META-INF/mods.toml`.
 - `sources.json`: metadatos y fuentes de los archivos.
 - `Modpack-FPS-1.16.5-Forge-PURE.zip`: ZIP de la variante de optimización pura.
+
+
+### Compatibilidad con Java 8
+
+Ixeris fue retirado del pack: las builds 1.16.5 revisadas incluyen clases compiladas para Java 17 y causan `UnsupportedClassVersionError` en Java 8.

@@ -4,7 +4,6 @@ if not exist mods mkdir mods
 curl.exe -fL --retry 3 -o "mods\AI-Improvements-1.16.5-0.5.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/AI-Improvements-1.16.5-0.5.0.jar"
 curl.exe -fL --retry 3 -o "mods\FastEvent-1.16.5-1.2.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/FastEvent-1.16.5-1.2.0.jar"
 curl.exe -fL --retry 3 -o "mods\FpsReducer-forge-1.24-mc1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/FpsReducer-forge-1.24-mc1.16.5.jar"
-curl.exe -fL --retry 3 -o "mods\Ixeris-4.6.11+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Ixeris-4.6.11%2B1.16.5-forge.jar"
 curl.exe -fL --retry 3 -o "mods\Kerria-1.3.2+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Kerria-1.3.2%2B1.16.5-forge.jar"
 curl.exe -fL --retry 3 -o "mods\Ksyxis-1.4.6.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Ksyxis-1.4.6.jar"
 curl.exe -fL --retry 3 -o "mods\Rrls-1.5.1-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Rrls-1.5.1-forge.jar"
@@ -32,5 +31,5 @@ curl.exe -fL --retry 3 -o "mods\rubidium-extra-0.4.18+mc1.16.5-build.107.jar" "h
 curl.exe -fL --retry 3 -o "mods\rubidium-mc1.16.5-0.2.13.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-mc1.16.5-0.2.13.jar"
 curl.exe -fL --retry 3 -o "mods\saturn-mc1.16.5-0.0.3.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/saturn-mc1.16.5-0.0.3.jar"
 curl.exe -fL --retry 3 -o "mods\structure_layout_optimizer-forge-1.0.10.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/structure_layout_optimizer-forge-1.0.10.jar"
-echo Descargados 31 mods Forge 1.16.5
+echo Descargados 30 mods Forge 1.16.5
 pause
