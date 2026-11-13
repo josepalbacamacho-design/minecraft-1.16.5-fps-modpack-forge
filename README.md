@@ -54,3 +54,8 @@ Ixeris fue retirado del pack: las builds 1.16.5 revisadas incluyen clases compil
 ### FastQuit
 
 FastQuit fue retirado porque provocaba un crash al entrar a servidores multijugador: `Config class com.kingcontaria.fastquit.config.ModConfig has not been registered`.
+
+
+### Better Biome Blend y LazyDFU
+
+Better Biome Blend fue retirado por incompatibilidad con Rubidium detectada por Opotato. LazyDFU no se añadió porque las builds para 1.16.5 encontradas son Fabric y no Forge.

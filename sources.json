@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 29,
+  "jar_count": 28,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -100,13 +100,6 @@
         "asynclogger"
       ],
       "version": "2.2.3+1.16.5-forge"
-    },
-    {
-      "filename": "betterbiomeblend-1.16.4-1.2.9-forge.jar",
-      "mod_ids": [
-        "betterbiomeblend"
-      ],
-      "version": "1.16.4-1.2.9-forge"
     },
     {
       "filename": "chunkguard-1.0.0.jar",
@@ -284,7 +277,8 @@
     "source_project": "/home/ubuntu/memory-guard-forge-1165"
   },
   "removed_mod": {
-    "name": "FastQuit",
-    "reason": "Crashes when joining multiplayer with config ModConfig not registered."
-  }
+    "name": "Better Biome Blend",
+    "reason": "Opotato warns that it is incompatible with Rubidium and causes negative optimization."
+  },
+  "lazydfu_status": "Not added: available 1.16.5 builds are Fabric-only; no verified Forge build."
 }
