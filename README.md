@@ -1,6 +1,6 @@
 # Modpack Pure FPS / Optimización — Minecraft 1.16.5 Forge
 
-Pack centrado exclusivamente en **optimización y rendimiento**, con **{len(files)} archivos `.jar` Forge**. No incluye mapas, inventario, decoración, contenido, voz ni utilidades generales que no aporten rendimiento.
+Pack centrado exclusivamente en **optimización y rendimiento**, con **30 archivos `.jar` Forge**. No incluye mapas, inventario, decoración, contenido, voz ni utilidades generales que no aporten rendimiento.
 
 <p align="center"><a href="https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/releases/latest/download/Modpack-FPS-1.16.5-Forge-PURE.zip"><img src="https://img.shields.io/badge/Descargar%20pack-PURE%20FPS-brightgreen?style=for-the-badge" alt="Descargar pack Pure FPS Forge 1.16.5"></a></p>
 
@@ -8,7 +8,7 @@ Pack centrado exclusivamente en **optimización y rendimiento**, con **{len(file
 
 ## Optimizadores incluidos
 
-- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus y Entity Culling. También incluye **ChunkGuard**, el mod propio del pack para adaptar la distancia de chunks según el tiempo de tick, y **Menu Panels**, un añadido de cliente para reemplazar el menú principal con tres paneles de imágenes. También incluye **MemoryGuard**, que monitoriza la memoria y ofrece limpieza manual o automática opcional.
+- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus y Entity Culling. También incluye **ChunkGuard**, el mod propio del pack para adaptar la distancia de chunks según el tiempo de tick,. También incluye **MemoryGuard**, que monitoriza la memoria y ofrece limpieza manual o automática opcional.
 - **Memoria y carga:** FerriteCore, ModernFix, Memory Leak Fix, Saturn, Lightspeed, Ksyxis, Kerria y Opotato.
 - **Entidades, lógica y generación:** AI Improvements, FastChest Revived, Structure Layout Optimizer, Radon y Dimensional Threading Reforked.
 - **Red y tiempos de espera:** Packet Fixer, Fast IP Ping y FastQuit.
@@ -40,7 +40,7 @@ Si aparece un crash, guarda `logs/latest.log` y el crash report. No añadas mods
 
 ## Archivos
 
-- `mods/`: los 31 archivos Forge, incluidos `chunkguard-1.0.0.jar`, `menupanels-1.0.0.jar` y `memoryguard-1.0.0.jar`.
+- `mods/`: los 30 archivos Forge, incluidos `chunkguard-1.0.0.jar`, `memoryguard-2.0.0.jar`, `lazydfu-0.1.3.jar` y `corefusion-1.0.0.jar`.
 - `LISTA-DE-MODS.md`: inventario validado desde `META-INF/mods.toml`.
 - `sources.json`: metadatos y fuentes de los archivos.
 - `Modpack-FPS-1.16.5-Forge-PURE.zip`: ZIP de la variante de optimización pura.
@@ -58,7 +58,7 @@ FastQuit fue retirado porque provocaba un crash al entrar a servidores multijuga
 
 ### Better Biome Blend y LazyDFU
 
-Better Biome Blend fue retirado por incompatibilidad con Rubidium detectada por Opotato. LazyDFU no se añadió porque las builds para 1.16.5 encontradas son Fabric y no Forge.
+Better Biome Blend fue retirado por incompatibilidad con Rubidium detectada por Opotato. LazyDFU 0.1.3 sí está incluido como build Forge compatible con Java 8.
 
 
 ### MemoryGuard 2.0
@@ -74,11 +74,6 @@ Añadido `regorboost-client-1.0.0.jar`, un mod solo de cliente para FPS, distanc
 ### RegorBoost Client 1.0.1
 
 Actualizado a `regorboost-client-1.0.1.jar`. El límite máximo del cliente queda fijado en **150 FPS**. Ningún mod propio del pack aplica otro límite de FPS.
-
-
-### Menu Panels 1.0.1
-
-Actualizado `menupanels-1.0.1.jar`: reemplaza la textura de Doofus Jerry por la imagen recibida, verifica rutas `assets/menupanels/textures/gui/` y conserva la proporción de las tres imágenes con separadores negros.
 
 
 ### LazyDFU Forge 0.1.3

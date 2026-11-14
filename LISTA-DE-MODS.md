@@ -1,6 +1,6 @@
 # Lista de mods de optimización — Minecraft 1.16.5 Forge
 
-Pack de **31 archivos `.jar` Forge**. Incluye CoreFusion 1.0.0, un complemento para memoria, chunks, entidades y partículas que funciona en mundos individuales y servidores dedicados.
+Pack de **30 archivos `.jar` Forge**. Incluye CoreFusion 1.0.0, un complemento para memoria, chunks, entidades y partículas que funciona en mundos individuales y servidores dedicados.
 
 | # | Mod ID | Versión | Archivo |
 |---:|---|---|---|
@@ -24,14 +24,13 @@ Pack de **31 archivos `.jar` Forge**. Incluye CoreFusion 1.0.0, un complemento p
 | 18 | `lightspeed` | `${file.jarVersion}` | `lightspeed-1.16.5-1.0.5.jar` |
 | 19 | `memoryguard` | `${file.jarVersion}` | `memoryguard-2.0.0.jar` |
 | 20 | `memoryleakfix` | `1.1.5` | `memoryleakfix-forge-pre1.17-1.1.5.jar` |
-| 21 | `menupanels` | `${file.jarVersion}` | `menupanels-1.0.1.jar` |
-| 22 | `modernfix` | `5.18.0+mc1.16.5` | `modernfix-forge-5.18.0+mc1.16.5.jar` |
-| 23 | `oculus` | `1.4.8` | `oculus-mc1.16.5-1.4.8.jar` |
-| 24 | `opotato` | `1.16.5-2.5.6` | `opotato-1.16.5-2.5.6.jar` |
-| 25 | `packetfixer` | `2.0.1` | `packetfixer-forge-2.0.1-1.16.5.jar` |
-| 26 | `radon` | `0.8.0a` | `radon-0.8.0a.jar` |
-| 27 | `regorboost` | `${file.jarVersion}` | `regorboost-client-1.0.1.jar` |
-| 28 | `sodiumextra` | `0.4.18+mc1.16.5-build.107` | `rubidium-extra-0.4.18+mc1.16.5-build.107.jar` |
-| 29 | `rubidium` | `0.2.13` | `rubidium-mc1.16.5-0.2.13.jar` |
-| 30 | `saturn` | `0.0.3` | `saturn-mc1.16.5-0.0.3.jar` |
-| 31 | `structure_layout_optimizer` | `1.0.10` | `structure_layout_optimizer-forge-1.0.10.jar` |
+| 21 | `modernfix` | `5.18.0+mc1.16.5` | `modernfix-forge-5.18.0+mc1.16.5.jar` |
+| 22 | `oculus` | `1.4.8` | `oculus-mc1.16.5-1.4.8.jar` |
+| 23 | `opotato` | `1.16.5-2.5.6` | `opotato-1.16.5-2.5.6.jar` |
+| 24 | `packetfixer` | `2.0.1` | `packetfixer-forge-2.0.1-1.16.5.jar` |
+| 25 | `radon` | `0.8.0a` | `radon-0.8.0a.jar` |
+| 26 | `regorboost` | `${file.jarVersion}` | `regorboost-client-1.0.1.jar` |
+| 27 | `sodiumextra` | `0.4.18+mc1.16.5-build.107` | `rubidium-extra-0.4.18+mc1.16.5-build.107.jar` |
+| 28 | `rubidium` | `0.2.13` | `rubidium-mc1.16.5-0.2.13.jar` |
+| 29 | `saturn` | `0.0.3` | `saturn-mc1.16.5-0.0.3.jar` |
+| 30 | `structure_layout_optimizer` | `1.0.10` | `structure_layout_optimizer-forge-1.0.10.jar` |
