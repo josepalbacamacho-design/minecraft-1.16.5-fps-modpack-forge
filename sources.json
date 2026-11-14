@@ -331,5 +331,10 @@
     "environment": "client",
     "dependency": "rubidium",
     "source": "https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/files/4743520"
+  },
+  "fastchestrevived_logo_fix": {
+    "filename": "fastchestrevived-forge-2.0.jar",
+    "change": "removed invalid logoFile path from META-INF/mods.toml",
+    "reason": "Forge 1.16.5 accepts only a root filename in logoFile"
   }
 }

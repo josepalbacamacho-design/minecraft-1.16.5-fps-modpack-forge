@@ -1,6 +1,6 @@
 # Lista de mods de optimización — Minecraft 1.16.5 Forge
 
-Pack de **30 archivos `.jar` Forge**. Incluye TexTrue’s Rubidium Options 1.0.8 para configurar Rubidium desde el cliente. CoreFusion aporta el complemento para memoria, chunks, entidades y partículas en mundos individuales y servidores dedicados.
+Pack de **30 archivos `.jar` Forge**. Incluye CoreFusion 1.0.0, un complemento para memoria, chunks, entidades y partículas que funciona en mundos individuales y servidores dedicados.
 
 | # | Mod ID | Versión | Archivo |
 |---:|---|---|---|

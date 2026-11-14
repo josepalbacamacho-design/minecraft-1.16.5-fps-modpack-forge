@@ -89,3 +89,8 @@ Añadido `corefusion-1.0.0.jar`: complemento para memoria, chunks, entidades y p
 ### TexTrue’s Rubidium Options 1.0.8
 
 Añadido `TextruesRubidiumOptions-1.0.8-mc1.16.5.jar` para configurar Rubidium desde el menú de vídeo. Es un mod de **cliente** y depende de Rubidium; no debe instalarse en un servidor dedicado. Fuente oficial: https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/files/4743520
+
+
+### Corrección de compatibilidad Forge
+
+Corregido `fastchestrevived-forge-2.0.jar`: se eliminó un `logoFile` con la ruta `assets/fastchestrevived/icon.png`, que provocaba un crash al abrir el botón **Mods** en Forge 1.16.5.
