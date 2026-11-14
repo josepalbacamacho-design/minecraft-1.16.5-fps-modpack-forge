@@ -179,7 +179,7 @@
       "version": "1.1.5"
     },
     {
-      "filename": "menupanels-1.0.0.jar",
+      "filename": "menupanels-1.0.1.jar",
       "mod_ids": [
         "menupanels"
       ],
@@ -293,5 +293,11 @@
     "physical-memory-based -Xmx recommendation"
   ],
   "regorboost_version": "1.0.1",
-  "regorboost_fps_cap": 150
+  "regorboost_fps_cap": 150,
+  "menupanels_version": "1.0.1",
+  "menupanels_texture_review": {
+    "jerry_replaced": "images.jpeg converted to panel_jerry.png",
+    "texture_paths_verified": true,
+    "aspect_preserving_render": true
+  }
 }

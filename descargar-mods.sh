@@ -19,7 +19,7 @@ curl -fL --retry 3 -o "mods/ferritecore-2.1.1-forge.jar" "https://github.com/jos
 curl -fL --retry 3 -o "mods/lightspeed-1.16.5-1.0.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/lightspeed-1.16.5-1.0.5.jar"
 curl -fL --retry 3 -o "mods/memoryguard-2.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/memoryguard-2.0.0.jar"
 curl -fL --retry 3 -o "mods/memoryleakfix-forge-pre1.17-1.1.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/memoryleakfix-forge-pre1.17-1.1.5.jar"
-curl -fL --retry 3 -o "mods/menupanels-1.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/menupanels-1.0.0.jar"
+curl -fL --retry 3 -o "mods/menupanels-1.0.1.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/menupanels-1.0.1.jar"
 curl -fL --retry 3 -o "mods/modernfix-forge-5.18.0+mc1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/modernfix-forge-5.18.0%2Bmc1.16.5.jar"
 curl -fL --retry 3 -o "mods/oculus-mc1.16.5-1.4.8.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/oculus-mc1.16.5-1.4.8.jar"
 curl -fL --retry 3 -o "mods/opotato-1.16.5-2.5.6.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/opotato-1.16.5-2.5.6.jar"

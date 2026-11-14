@@ -1,6 +1,6 @@
 # Lista de mods de optimización — Minecraft 1.16.5 Forge
 
-Pack de **29 archivos `.jar` Forge**. RegorBoost Client fija el límite del cliente en 150 FPS.
+Pack de **29 archivos `.jar` Forge**. Menu Panels fue actualizado a 1.0.1 con la nueva imagen de Jerry, rutas verificadas y renderizado proporcional.
 
 | # | Mod ID | Versión | Archivo |
 |---:|---|---|---|
@@ -22,7 +22,7 @@ Pack de **29 archivos `.jar` Forge**. RegorBoost Client fija el límite del clie
 | 16 | `lightspeed` | `${file.jarVersion}` | `lightspeed-1.16.5-1.0.5.jar` |
 | 17 | `memoryguard` | `${file.jarVersion}` | `memoryguard-2.0.0.jar` |
 | 18 | `memoryleakfix` | `1.1.5` | `memoryleakfix-forge-pre1.17-1.1.5.jar` |
-| 19 | `menupanels` | `${file.jarVersion}` | `menupanels-1.0.0.jar` |
+| 19 | `menupanels` | `${file.jarVersion}` | `menupanels-1.0.1.jar` |
 | 20 | `modernfix` | `5.18.0+mc1.16.5` | `modernfix-forge-5.18.0+mc1.16.5.jar` |
 | 21 | `oculus` | `1.4.8` | `oculus-mc1.16.5-1.4.8.jar` |
 | 22 | `opotato` | `1.16.5-2.5.6` | `opotato-1.16.5-2.5.6.jar` |

@@ -74,3 +74,8 @@ Añadido `regorboost-client-1.0.0.jar`, un mod solo de cliente para FPS, distanc
 ### RegorBoost Client 1.0.1
 
 Actualizado a `regorboost-client-1.0.1.jar`. El límite máximo del cliente queda fijado en **150 FPS**. Ningún mod propio del pack aplica otro límite de FPS.
+
+
+### Menu Panels 1.0.1
+
+Actualizado `menupanels-1.0.1.jar`: reemplaza la textura de Doofus Jerry por la imagen recibida, verifica rutas `assets/menupanels/textures/gui/` y conserva la proporción de las tres imágenes con separadores negros.
