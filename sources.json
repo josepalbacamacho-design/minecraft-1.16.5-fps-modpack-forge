@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 30,
+  "jar_count": 29,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -170,13 +170,6 @@
         "lazydfu"
       ],
       "version": "0.1.3"
-    },
-    {
-      "filename": "lightspeed-1.16.5-1.0.5.jar",
-      "mod_ids": [
-        "lightspeed"
-      ],
-      "version": "${file.jarVersion}"
     },
     {
       "filename": "memoryguard-2.0.0.jar",
