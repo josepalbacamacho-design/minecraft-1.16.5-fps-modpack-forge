@@ -7,6 +7,7 @@ curl -fL --retry 3 -o "mods/FpsReducer-forge-1.24-mc1.16.5.jar" "https://github.
 curl -fL --retry 3 -o "mods/Kerria-1.3.2+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Kerria-1.3.2%2B1.16.5-forge.jar"
 curl -fL --retry 3 -o "mods/Ksyxis-1.4.6.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Ksyxis-1.4.6.jar"
 curl -fL --retry 3 -o "mods/Rrls-1.5.1-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/Rrls-1.5.1-forge.jar"
+curl -fL --retry 3 -o "mods/TextruesRubidiumOptions-1.0.8-mc1.16.5.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/TextruesRubidiumOptions-1.0.8-mc1.16.5.jar"
 curl -fL --retry 3 -o "mods/asynclogger-2.2.3+1.16.5-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/asynclogger-2.2.3%2B1.16.5-forge.jar"
 curl -fL --retry 3 -o "mods/chunkguard-1.0.0.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/chunkguard-1.0.0.jar"
 curl -fL --retry 3 -o "mods/cloth-config-4.17.101-forge.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/cloth-config-4.17.101-forge.jar"
@@ -30,4 +31,4 @@ curl -fL --retry 3 -o "mods/rubidium-extra-0.4.18+mc1.16.5-build.107.jar" "https
 curl -fL --retry 3 -o "mods/rubidium-mc1.16.5-0.2.13.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/rubidium-mc1.16.5-0.2.13.jar"
 curl -fL --retry 3 -o "mods/saturn-mc1.16.5-0.0.3.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/saturn-mc1.16.5-0.0.3.jar"
 curl -fL --retry 3 -o "mods/structure_layout_optimizer-forge-1.0.10.jar" "https://github.com/josepalbacamacho-design/minecraft-1.16.5-fps-modpack-forge/raw/refs/heads/main/mods/structure_layout_optimizer-forge-1.0.10.jar"
-echo Descargados 29 mods Forge 1.16.5
+echo Descargados 30 mods Forge 1.16.5

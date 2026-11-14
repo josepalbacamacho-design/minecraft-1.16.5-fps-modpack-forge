@@ -8,7 +8,7 @@ Pack centrado exclusivamente en **optimización y rendimiento**, con **30 archiv
 
 ## Optimizadores incluidos
 
-- **Renderizado y FPS:** Rubidium, Rubidium Extra, Oculus y Entity Culling. También incluye **ChunkGuard**, el mod propio del pack para adaptar la distancia de chunks según el tiempo de tick,. También incluye **MemoryGuard**, que monitoriza la memoria y ofrece limpieza manual o automática opcional.
+- **Renderizado y FPS:** Rubidium, Rubidium Extra, TexTrue’s Rubidium Options, Oculus y Entity Culling. También incluye **ChunkGuard**, el mod propio del pack para adaptar la distancia de chunks según el tiempo de tick,. También incluye **MemoryGuard**, que monitoriza la memoria y ofrece limpieza manual o automática opcional.
 - **Memoria y carga:** FerriteCore, ModernFix, Memory Leak Fix, Saturn, Ksyxis, Kerria y Opotato.
 - **Entidades, lógica y generación:** AI Improvements, FastChest Revived, Structure Layout Optimizer, Radon y Dimensional Threading Reforked.
 - **Red y tiempos de espera:** Packet Fixer, Fast IP Ping y FastQuit.
@@ -84,3 +84,8 @@ Añadido `lazydfu-0.1.3.jar`, build Forge compatible con Minecraft 1.16.5 y Java
 ### CoreFusion 1.0.0
 
 Añadido `corefusion-1.0.0.jar`: complemento para memoria, chunks, entidades y partículas. Funciona en mundos individuales y servidores dedicados. Detecta ChunkGuard para no ejecutar un segundo controlador de distancia. Las funciones que pueden cambiar el gameplay están desactivadas por defecto.
+
+
+### TexTrue’s Rubidium Options 1.0.8
+
+Añadido `TextruesRubidiumOptions-1.0.8-mc1.16.5.jar` para configurar Rubidium desde el menú de vídeo. Es un mod de **cliente** y depende de Rubidium; no debe instalarse en un servidor dedicado. Fuente oficial: https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/files/4743520

@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 29,
+  "jar_count": 30,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -93,6 +93,13 @@
         "rrls"
       ],
       "version": "1.5.1-forge"
+    },
+    {
+      "filename": "TextruesRubidiumOptions-1.0.8-mc1.16.5.jar",
+      "mod_ids": [
+        "reeses_sodium_options"
+      ],
+      "version": "1.0.8-mc1.16.5"
     },
     {
       "filename": "asynclogger-2.2.3+1.16.5-forge.jar",
@@ -314,5 +321,15 @@
       "optional entity cap",
       "optional minimal particles"
     ]
+  },
+  "textrues_rubidium_options": {
+    "version": "1.0.8-mc1.16.5",
+    "filename": "TextruesRubidiumOptions-1.0.8-mc1.16.5.jar",
+    "mod_id": "reeses_sodium_options",
+    "loader": "Forge",
+    "minecraft": "1.16.5",
+    "environment": "client",
+    "dependency": "rubidium",
+    "source": "https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/files/4743520"
   }
 }
