@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 29,
+  "jar_count": 30,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -158,6 +158,13 @@
       "version": "2.1.1"
     },
     {
+      "filename": "lazydfu-0.1.3.jar",
+      "mod_ids": [
+        "lazydfu"
+      ],
+      "version": "0.1.3"
+    },
+    {
       "filename": "lightspeed-1.16.5-1.0.5.jar",
       "mod_ids": [
         "lightspeed"
@@ -299,5 +306,13 @@
     "jerry_replaced": "images.jpeg converted to panel_jerry.png",
     "texture_paths_verified": true,
     "aspect_preserving_render": true
+  },
+  "lazydfu": {
+    "version": "0.1.3",
+    "filename": "lazydfu-0.1.3.jar",
+    "loader": "Forge",
+    "minecraft": "1.16.5",
+    "java_max_class_version": 52,
+    "source": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3249059"
   }
 }

@@ -79,3 +79,8 @@ Actualizado a `regorboost-client-1.0.1.jar`. El límite máximo del cliente qued
 ### Menu Panels 1.0.1
 
 Actualizado `menupanels-1.0.1.jar`: reemplaza la textura de Doofus Jerry por la imagen recibida, verifica rutas `assets/menupanels/textures/gui/` y conserva la proporción de las tres imágenes con separadores negros.
+
+
+### LazyDFU Forge 0.1.3
+
+Añadido `lazydfu-0.1.3.jar`, build Forge compatible con Minecraft 1.16.5 y Java 8. ModernFix lo recomienda para diferir la inicialización de DataFixerUpper y evitar su advertencia de arranque.

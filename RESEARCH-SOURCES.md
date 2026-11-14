@@ -10,3 +10,5 @@ La auditoría consultó Modrinth, CurseForge y documentación de autores con fil
 - [Ixeris](https://modrinth.com/mod/ixeris): sondeo de eventos y entrada en hilos separados; especialmente útil con polling rate alto.
 - [Purescale](https://modrinth.com/mod/purescale): candidato opcional de escalado/generación de frames, no incluido en la variante universal.
 - [Guía de mods de rendimiento de Akliz](https://help.akliz.net/docs/performance-mods): contraste de rendimiento cliente, servidor, memoria, red y renderizado.
+
+- LazyDFU Forge 0.1.3 para 1.16.5: https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3249059
