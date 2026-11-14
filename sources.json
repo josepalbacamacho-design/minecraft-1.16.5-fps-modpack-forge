@@ -3,7 +3,7 @@
   "loader": "Forge",
   "forge_recommended": "36.2.39",
   "profile": "pure-optimization",
-  "jar_count": 30,
+  "jar_count": 31,
   "added_in_audit": [
     {
       "name": "ebe-reloaded",
@@ -114,6 +114,13 @@
         "cloth-config"
       ],
       "version": "4.17.101"
+    },
+    {
+      "filename": "corefusion-1.0.0.jar",
+      "mod_ids": [
+        "corefusion"
+      ],
+      "version": "${file.jarVersion}"
     },
     {
       "filename": "dimthread-1.16.5-v1.0.5.jar",
@@ -314,5 +321,18 @@
     "minecraft": "1.16.5",
     "java_max_class_version": 52,
     "source": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3249059"
+  },
+  "corefusion": {
+    "version": "1.0.0",
+    "filename": "corefusion-1.0.0.jar",
+    "minecraft": "1.16.5",
+    "forge": "36.2.39",
+    "java": "8",
+    "features": [
+      "conservative memory cleanup",
+      "adaptive chunks with ChunkGuard detection",
+      "optional entity cap",
+      "optional minimal particles"
+    ]
   }
 }

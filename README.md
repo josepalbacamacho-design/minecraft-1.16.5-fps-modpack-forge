@@ -84,3 +84,8 @@ Actualizado `menupanels-1.0.1.jar`: reemplaza la textura de Doofus Jerry por la 
 ### LazyDFU Forge 0.1.3
 
 Añadido `lazydfu-0.1.3.jar`, build Forge compatible con Minecraft 1.16.5 y Java 8. ModernFix lo recomienda para diferir la inicialización de DataFixerUpper y evitar su advertencia de arranque.
+
+
+### CoreFusion 1.0.0
+
+Añadido `corefusion-1.0.0.jar`: complemento para memoria, chunks, entidades y partículas. Funciona en mundos individuales y servidores dedicados. Detecta ChunkGuard para no ejecutar un segundo controlador de distancia. Las funciones que pueden cambiar el gameplay están desactivadas por defecto.
